@@ -26,3 +26,4 @@
 
 - **Psi**: My experimentation with Proof of Elapsed Time consensus mechanism. How long does it take 5 nodes to agree on the proper way to evenly disperse 700M "assets".
 - **Arbiter**: MEV that'll blow your mind. Adapting to the ever changing landscape of decentralized exchanges.
+- **IReadIt**: Pretending that Kindle has a built in browser or native PDF support, this app gets you in sync.
