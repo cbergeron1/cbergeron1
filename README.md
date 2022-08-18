@@ -24,6 +24,4 @@
 
 ### 🚧 Personal Projects: 
 
-- **Psi**: My experimentation with Proof of Elapsed Time consensus mechanism. How long does it take 5 nodes to agree on the proper way to evenly disperse 1B "assets".
-- **Arbiter**: Arbitrage that'll blow your mind. Adapting to the ever changing landscape of decentralized exchanges.
-- **IReadIt**: Pretending that Kindle has a built in browser or native PDF support, this app gets you in sync.
+- **The Giving Tree**: Cause who does love giveaways?
