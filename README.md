@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ### 📱 Connect with Me:
 
