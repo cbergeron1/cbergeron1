@@ -24,4 +24,5 @@
 
 ### 🚧 Personal Projects: 
 
+- **Bricks "R" Us**: Discord bot for flipping opportunities on LEGO sets/minifigs. Helps identify sets that are being retired within next 3 months.
 - **The Giving Tree**: Cause who does love giveaways?
