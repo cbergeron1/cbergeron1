@@ -2,7 +2,7 @@
 
 ### 📠 About Me:
 
-- Infra/Cloud Engineer at Red Ventures
+- Senior Consultant at Slalom
 - Crypto(graphy/currency) are pretty cool
 
 ### 🛠️ Stuff I Use:
