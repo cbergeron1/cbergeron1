@@ -24,4 +24,4 @@
 
 ### 🚧 Personal Projects: 
 
-- **Cloud Colonel**: Building the AWS Console inside of your terminal.
+- **WIP**
