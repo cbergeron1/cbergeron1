@@ -20,7 +20,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carltonbergeron/)](https://www.linkedin.com/in/carltonbergeron/)</br>
 [![GitHub Badge](https://img.shields.io/github/followers/cbergeron1?label=Follow&style=social)](https://github.com/cbergeron1/?tab=follow)</br>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThirdCarlton)](https://twitter.com/ThirdCarlton)</br>
-[![Mirror Badge](https://img.shields.io/badge/-Mirror-gray?style=flat-square&logo=mirror&link=https://mirror.xyz/diodude.eth)](https://mirror.xyz/diodude.eth)
 
 ### 🚧 Personal Projects: 
 
