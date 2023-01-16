@@ -24,3 +24,5 @@
 ### 🚧 Personal Projects: 
 
 - **awst** - Amazon Web Services Terminal (or awst for short) is a Text User Interface to interact with the AWS console from the comfort of your terminal.
+
+![Snake animation](https://github.com/cbergeron1/cbergeron1/blob/output/github-contribution-grid-snake.svg)
