@@ -7,13 +7,9 @@
 
 ### 🛠️ Stuff I Use:
 
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Terraform](https://img.shields.io/badge/-Terraform-233536?style=flat-square&logo=Terraform) ![AWS](https://img.shields.io/badge/-AWS-233536?style=flat-square&logo=Amazon) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-233536?style=flat-square&logo=Apache%20Kafka) ![Docker](https://img.shields.io/badge/-Docker-233536?style=flat-square&logo=Docker) ![Github Actions](https://img.shields.io/badge/-Github%20Actions-233536?style=flat-square&logo=Github%20Actions)
+
+![Github](https://img.shields.io/badge/-Github-233536?style=flat-square&logo=github) ![Python](https://img.shields.io/badge/-Python-233536?style=flat-square&logo=python) ![Grafana](https://img.shields.io/badge/-Grafana-233536?style=flat-square&logo=Grafana) ![Linux](https://img.shields.io/badge/-Linux-233536?style=flat-square&logo=Linux) ![MySQL](https://img.shields.io/badge/-MySQL-233536?style=flat-square&logo=MySQL) ![New Relic](https://img.shields.io/badge/-New%20Relic-233536?style=flat-square&logo=New%20Relic)
 
 ### 📱 Connect with Me:
 
