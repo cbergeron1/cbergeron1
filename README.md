@@ -3,7 +3,6 @@
 ### 📠 About Me:
 
 - Senior Consultant at Slalom
-- Crypto(graphy/currency) are pretty cool
 
 ### 🛠️ Stuff I Use:
 
