@@ -18,4 +18,4 @@
 
 ### 🚧 Personal Projects: 
 
-- **[awst](https://github.com/cbergeron1/awst)** - Amazon Web Services Terminal (or awst for short) is a Text User Interface to interact with the AWS console from the comfort of your terminal.
+- **arbiter** - Sports Betting Arbitrage bot that watches matches between betting platforms and identifies small arbitrage opportunities. Once an opportunity is found, bets are initiated cross platforms to ensure a profit is taken.
