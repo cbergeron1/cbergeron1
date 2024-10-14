@@ -18,4 +18,4 @@
 
 ### 🚧 Personal Projects: 
 
-- **arbiter** - Sports Betting Arbitrage bot that watches matches between betting platforms and identifies small arbitrage opportunities. Once an opportunity is found, bets are initiated cross platforms to ensure a profit is taken.
+- **served** - A Discord first platform to allow users to quickly and easily spin up and manage dedicated servers hosted in AWS for multiple different games.
