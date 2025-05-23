@@ -2,7 +2,7 @@
 
 ### 📠 About Me:
 
-- Senior Consultant at Slalom
+- Senior Engineer at Rocket Money
 
 ### 🛠️ Stuff I Use:
 
